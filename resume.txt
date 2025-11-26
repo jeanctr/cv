@@ -1,6 +1,6 @@
 * Jean Carlos Tomicha Ressa
 ===========================
-    
+
 - Ingeniero Electromecánico
 - Santa Cruz, Bolivia
 
@@ -20,10 +20,10 @@
 
     * Ingeniero en Proyectos
     ........................
-    
+
     Empresa, Santa Cruz, Bolvia
     Marzo 2022 - Presente
-    
+
         - Diseño y supervision de instalaciones electricas
         - Coordinacion tecnicas con equipos
 
@@ -32,7 +32,7 @@
 
     * Licenciatura en Ingenieria Electromecanica
     ............................................
-    
+
         Universidad Autonoma Gabriel Rene Moreno
         Santa Cruz, Bolivia
         2018
@@ -53,5 +53,5 @@
 
     * Curso de AutoCad
     ..................
-        
+
         Instituto San Pablo, 2020
